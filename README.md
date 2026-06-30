@@ -6,9 +6,7 @@ A full-featured, browser-based Employee Management Portal built with **React 19*
 
 ## 🚀 Demo
 
-https://github.com/ShahzebFaisal5649/Employee-Management-Portal/raw/main/Employee%20Management%20Portal%20Demo.mp4
-
-> 🎬 The demo video above shows the full HR and Employee workflows in action. If it doesn't auto-play, click the link to download and watch it locally.
+<video src="https://github.com/ShahzebFaisal5649/Employee-Management-Portal/raw/main/Employee%20Management%20Portal%20Demo.mp4" controls width="100%"></video>
 
 ---
 
@@ -170,7 +168,7 @@ All data is stored in the browser's **IndexedDB** under the database name `Emplo
 
 A full walkthrough demo video is included in the repository root. You can watch it directly on GitHub:
 
-🎬 **[▶ Watch Demo Video](https://github.com/ShahzebFaisal5649/Employee-Management-Portal/raw/main/Employee%20Management%20Portal%20Demo.mp4)**
+<video src="https://github.com/ShahzebFaisal5649/Employee-Management-Portal/raw/main/Employee%20Management%20Portal%20Demo.mp4" controls width="100%"></video>
 
 The demo covers:
 - HR login and dashboard overview
