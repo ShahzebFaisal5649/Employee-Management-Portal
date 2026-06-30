@@ -4,9 +4,11 @@ A full-featured, browser-based Employee Management Portal built with **React 19*
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Demo
 
-> 🎬 A demo video (`Employee Management Portal Demo.mp4`) is included in the root of the repository showcasing all major features in action.
+https://github.com/ShahzebFaisal5649/Employee-Management-Portal/raw/main/Employee%20Management%20Portal%20Demo.mp4
+
+> 🎬 The demo video above shows the full HR and Employee workflows in action. If it doesn't auto-play, click the link to download and watch it locally.
 
 ---
 
@@ -166,8 +168,16 @@ All data is stored in the browser's **IndexedDB** under the database name `Emplo
 
 ## 📸 Screenshots & Demo
 
-A full demo video is included in the repository root:
-**`Employee Management Portal Demo.mp4`**
+A full walkthrough demo video is included in the repository root. You can watch it directly on GitHub:
+
+🎬 **[▶ Watch Demo Video](https://github.com/ShahzebFaisal5649/Employee-Management-Portal/raw/main/Employee%20Management%20Portal%20Demo.mp4)**
+
+The demo covers:
+- HR login and dashboard overview
+- Adding & managing employees
+- Approving / rejecting leave requests
+- Employee clock-in / clock-out with live timer
+- Leave application and status tracking
 
 ---
 
